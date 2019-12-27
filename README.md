@@ -19,10 +19,10 @@ Ceph file storage makes use of the Portable Operating System Interface (POSIX)-c
 # Build CEPH-on-RBPI Steps :
 #################################################################################
 
-Step 1: Compile CEPH On RBPI Using Clang/LLVM
+Step 1: Compile CEPH On RBPI
     
    Reference: https://louwrentius.com/compiling-ceph-on-the-raspberry-pi-3b-armhf-using-clangllvm.html
-                      
+              https://docs.ceph.com/docs/master/install/build-ceph/      
 Step 2: Build Cluster
  
         Accordind to Step 1 we consider that CEPH Complie for RBPI

@@ -189,6 +189,7 @@ Step 7 - Testing the Ceph setup
             
 References: 
           
+          https://docs.ceph.com/docs/master/install/build-ceph/#rpm-package-manager
           https://docs.ceph.com/docs/master/start/intro/  
           https://access.redhat.com/documentation/en-us/red_hat_ceph_storage/3/html/installation_guide_for_ubuntu   /what_is_red_hat_ceph_storage
           https://bryanapperson.com/blog/the-definitive-guide-ceph-cluster-on-raspberry-pi/
